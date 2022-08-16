@@ -1,1 +1,3 @@
-
+python is a scripting language.
+javascript also a scripting language.
+python and js both are object oriented languages.
